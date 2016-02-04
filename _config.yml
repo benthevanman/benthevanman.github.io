@@ -4,18 +4,24 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            Silas the Sprinter
+tagline:          'Sprinter Workvan to Homevan'
+description:      'Converting a <a href="https://instagram.com/benthevanman" target="_blank">2004 Sprinter</a> from a working van to a rolling home.'
+#url:              http://hyde.getpoole.com
+baseurl:          ""
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - pygments
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Ben Reichert'
+  url:            https://instagram.com/benthevanman
 
 paginate:         5
 
