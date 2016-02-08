@@ -1,0 +1,3 @@
+#! /bin/sh
+
+kill -9 `ps aux | grep jekyll | awk '{print $2}'`
