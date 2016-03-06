@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rogue
 
 # Permalinks
 permalink:        pretty
@@ -10,7 +10,7 @@ permalink:        pretty
 baseurl: '/' # does not include hostname
 
 # Setup
-title:            Silas the Sprinter
+title:            +/- an 1/8th
 tagline:          'Sprinter Workvan to Homevan'
 description:      'Converting a <a href="https://instagram.com/benthevanman" target="_blank">2004 Sprinter</a> from a working van to a rolling home.'
 #url:              http://hyde.getpoole.com
